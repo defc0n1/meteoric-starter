@@ -1,14 +1,11 @@
 # Meteoric Starter App
-This is a repo for my mobile meteor apps using meteoric (Ionic Framework).
+A starter template for my mobile meteor apps using meteoric (Ionic Framework).
 
 ## Package Dependencies
 
 ### Functionality
-- meteor add mdg:camera
-- meteor add mdg:geolocation
 - meteor add iron:router
 - meteor add-platform ios
-- mrt add googlemaps
 
 ### Frontend
 - meteor add meteoric:ionic
