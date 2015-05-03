@@ -11,3 +11,4 @@ meteoric:ionic
 meteoric:ionic-sass
 meteoric:ionicons-sass
 fourseven:scss
+iron:router
