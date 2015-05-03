@@ -1,7 +1,23 @@
 # Meteoric Starter App
 A starter template for my mobile meteor apps using meteoric (Ionic Framework).
 
-## Package Dependencies
+## Getting Started
+
+1. Clone the repo: `$ git clone https://github.com/brentrobbins/meteoric-starter.git`
+2. Navigate into the project: `$ cd meteoric-starter`
+3. Test meteor to make sure everything initially is running properly by running: `$ meteor` and make sure you check your browser's console to see if there are any errors.
+4. 
+
+## Project Details
+
+### Folder structure
+```
+client/ 				# Client files
+lib/  					# Common code
+private/                # Private files
+public/                 # Public files
+server/					# Server folder
+```
 
 ### Functionality
 - meteor add iron:router
@@ -26,4 +42,6 @@ A starter template for my mobile meteor apps using meteoric (Ionic Framework).
 
 # To-Do
 
+- [x] Add default packages
+- [ ] Add default folder structure
 - [ ] 
